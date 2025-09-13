@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "totalTechnologies": 3985,
+    "privacyRelatedTechnologies": 758,
+    "privacyPercentage": "19.0"
+  },
+  "riskDistribution": {
+    "high": 57,
+    "medium": 490,
+    "low": 211
+  },
+  "categoryBreakdown": {
+    "Analytics": 219,
+    "Advertising": 151,
+    "Cookie compliance": 57,
+    "Affiliate programs": 47,
+    "Retargeting": 15,
+    "Browser fingerprinting": 5,
+    "Customer data platform": 37,
+    "Marketing automation": 141,
+    "Personalisation": 103,
+    "Segmentation": 8,
+    "Tag managers": 11,
+    "RUM": 27
+  },
+  "topThreats": [
+    {
+      "name": "Acquia Customer Data Platform",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "AdRoll",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Advertising",
+        "Retargeting"
+      ]
+    },
+    {
+      "name": "Adobe Experience Platform Identity Service",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Albacross",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Analytics",
+        "Retargeting"
+      ]
+    },
+    {
+      "name": "Antsomi CDP 365",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Blue",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Retargeting"
+      ]
+    },
+    {
+      "name": "BlueConic",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "ChurnZero",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "ClientJS",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "JavaScript libraries",
+        "Browser fingerprinting"
+      ]
+    },
+    {
+      "name": "Cooladata",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Criteo",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Advertising",
+        "Retargeting"
+      ]
+    },
+    {
+      "name": "Cross Pixel",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Retargeting"
+      ]
+    },
+    {
+      "name": "Datatrics",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Emarsys",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Marketing automation",
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Exponea",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "eSputnik",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Marketing automation",
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "FingerprintJS",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "JavaScript libraries",
+        "Browser fingerprinting"
+      ]
+    },
+    {
+      "name": "FirstHive",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "Insider",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    },
+    {
+      "name": "inSided",
+      "threatLevel": 3,
+      "riskLevel": "high",
+      "categories": [
+        "Customer data platform"
+      ]
+    }
+  ],
+  "detectionMethodStats": {
+    "cookies": 41,
+    "javascript": 516,
+    "network": 588,
+    "dom": 168
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/HTTPArchive/wappalyzer/refs/heads/main/src",
+  "outputDir": "./wappalyzer-data",
+  "retries": 3,
+  "timeout": 30000,
+  "privacyCategories": [
+    10, 36, 67, 71, 77, 83, 97, 32, 76, 86, 42, 78
+  ],
+  "highRiskCategories": [83, 77, 97],
+  "mediumRiskCategories": [10, 36, 42, 32],
+  "userAgent": "Wappalyzer-Privacy-Scraper/1.0.0"
+}

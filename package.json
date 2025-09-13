@@ -1,0 +1,24 @@
+{
+  "name": "wappalyzer-privacy-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Wappalyzer database to generate privacy-focused technology detection lists",
+  "main": "wappalyzer-scraper.js",
+  "scripts": {
+    "start": "node wappalyzer-scraper.js",
+    "scrape": "node wappalyzer-scraper.js",
+    "test": "node wappalyzer-scraper.js --dry-run",
+    "clean": "rm -rf wappalyzer-data/*.json wappalyzer-data/*.md"
+  },
+  "keywords": [
+    "wappalyzer",
+    "privacy",
+    "tracking",
+    "browser-extension",
+    "web-technologies"
+  ],
+  "author": "Leonardo Poleto",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

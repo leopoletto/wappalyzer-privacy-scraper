@@ -1,0 +1,3180 @@
+[
+  {
+    "technology": "AWIN",
+    "pattern": "BAGawin",
+    "threatLevel": 1,
+    "categories": [
+      71
+    ],
+    "description": "AWIN is a global affiliate marketing network."
+  },
+  {
+    "technology": "AWIN",
+    "pattern": "_aw_xid",
+    "threatLevel": 1,
+    "categories": [
+      71
+    ],
+    "description": "AWIN is a global affiliate marketing network."
+  },
+  {
+    "technology": "Absorb",
+    "pattern": "_absorb_ui_session",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Absorb is a cloud-based learning management system."
+  },
+  {
+    "technology": "Actito",
+    "pattern": "SmartFocus",
+    "threatLevel": 2,
+    "categories": [
+      32,
+      76
+    ],
+    "description": "Actito is an agile SaaS marketing automation platform."
+  },
+  {
+    "technology": "Adobe Audience Manager",
+    "pattern": "Demdex",
+    "threatLevel": 1,
+    "categories": [
+      86
+    ],
+    "description": "Adobe Audience Manager is a versatile audience data management platform."
+  },
+  {
+    "technology": "Adobe Audience Manager",
+    "pattern": "aam_uuid",
+    "threatLevel": 1,
+    "categories": [
+      86
+    ],
+    "description": "Adobe Audience Manager is a versatile audience data management platform."
+  },
+  {
+    "technology": "AdonisJS",
+    "pattern": "adonis-session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "AdonisJS",
+    "pattern": "adonis-session-values",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Ahoy",
+    "pattern": "ahoy_track",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Ahoy is a Ruby gem that provides simple and powerful analytics for Ruby on Rails applications."
+  },
+  {
+    "technology": "Ahoy",
+    "pattern": "ahoy_visit",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Ahoy is a Ruby gem that provides simple and powerful analytics for Ruby on Rails applications."
+  },
+  {
+    "technology": "Ahoy",
+    "pattern": "ahoy_visitor",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Ahoy is a Ruby gem that provides simple and powerful analytics for Ruby on Rails applications."
+  },
+  {
+    "technology": "Akamai Bot Manager",
+    "pattern": "ak_bmsc",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Akamai Bot Manager detect bots using device fingerprinting bot signatures."
+  },
+  {
+    "technology": "Akamai Bot Manager",
+    "pattern": "bm_sv",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Akamai Bot Manager detect bots using device fingerprinting bot signatures."
+  },
+  {
+    "technology": "Akamai Bot Manager",
+    "pattern": "bm_sz",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Akamai Bot Manager detect bots using device fingerprinting bot signatures."
+  },
+  {
+    "technology": "Akamai mPulse",
+    "pattern": "akaas_AB-Testing",
+    "threatLevel": 1,
+    "categories": [
+      78
+    ],
+    "description": "Akamai mPulse is a real user monitoring (RUM) solution that enables companies to monitor, find, and fix website and application performance issues."
+  },
+  {
+    "technology": "Algolia",
+    "pattern": "_ALGOLIA",
+    "threatLevel": 0,
+    "categories": [
+      29
+    ],
+    "description": "Algolia offers a hosted web search product delivering real-time results."
+  },
+  {
+    "technology": "AlumnIQ",
+    "pattern": "alumniq-online-giving",
+    "threatLevel": 0,
+    "categories": [
+      111
+    ],
+    "description": "AlumnIQ is a set of services to manage events, giving, email, volunteers, class agents, and more, all designed to work with your database of record."
+  },
+  {
+    "technology": "Amazon ALB",
+    "pattern": "AWSALB",
+    "threatLevel": 0,
+    "categories": [
+      65
+    ],
+    "description": "Amazon Application Load Balancer (ALB) distributes incoming application traffic to increase availability and support content-based routing."
+  },
+  {
+    "technology": "Amazon ALB",
+    "pattern": "AWSALBCORS",
+    "threatLevel": 0,
+    "categories": [
+      65
+    ],
+    "description": "Amazon Application Load Balancer (ALB) distributes incoming application traffic to increase availability and support content-based routing."
+  },
+  {
+    "technology": "Amazon ELB",
+    "pattern": "AWSELB",
+    "threatLevel": 0,
+    "categories": [
+      65
+    ],
+    "description": "AWS ELB is a network load balancer service provided by Amazon Web Services for distributing traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions."
+  },
+  {
+    "technology": "Analysys Ark",
+    "pattern": "ARK_ID",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Apptus",
+    "pattern": "apptus.customerKey",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Apptus is an AI-powered ecommerce optimisation software provider."
+  },
+  {
+    "technology": "Apptus",
+    "pattern": "apptus.sessionKey",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Apptus is an AI-powered ecommerce optimisation software provider."
+  },
+  {
+    "technology": "Atlassian FishEye",
+    "pattern": "FESESSIONID",
+    "threatLevel": 0,
+    "categories": [
+      47
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Azure",
+    "pattern": "ARRAffinity",
+    "threatLevel": 0,
+    "categories": [
+      62
+    ],
+    "description": "Azure is a cloud computing service for building, testing, deploying, and managing applications and services through Microsoft-managed data centers."
+  },
+  {
+    "technology": "Azure",
+    "pattern": "TiPMix",
+    "threatLevel": 0,
+    "categories": [
+      62
+    ],
+    "description": "Azure is a cloud computing service for building, testing, deploying, and managing applications and services through Microsoft-managed data centers."
+  },
+  {
+    "technology": "Azure Front Door",
+    "pattern": "ASLBSA",
+    "threatLevel": 0,
+    "categories": [
+      65
+    ],
+    "description": "Azure Front Door is a scalable and secure entry point for fast delivery of your global web applications."
+  },
+  {
+    "technology": "Azure Front Door",
+    "pattern": "ASLBSACORS",
+    "threatLevel": 0,
+    "categories": [
+      65
+    ],
+    "description": "Azure Front Door is a scalable and secure entry point for fast delivery of your global web applications."
+  },
+  {
+    "technology": "BSmart",
+    "pattern": "bsmartstate",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "BSmart is an ecommerce platform, programmed by Microline."
+  },
+  {
+    "technology": "Beyable",
+    "pattern": "beyable-cart",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Beyable is a suite of tools that analyze website traffic to understand visitors' behaviors in real-time, through multi-channel in order to optimise conversion rate."
+  },
+  {
+    "technology": "Beyable",
+    "pattern": "beyable-cartd",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Beyable is a suite of tools that analyze website traffic to understand visitors' behaviors in real-time, through multi-channel in order to optimise conversion rate."
+  },
+  {
+    "technology": "Bigware",
+    "pattern": "bigWAdminID",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Bigware",
+    "pattern": "bigwareCsid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Blesta",
+    "pattern": "blesta_sid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Bonfire",
+    "pattern": "bf_session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "BookStack",
+    "pattern": "bookstack_session",
+    "threatLevel": 0,
+    "categories": [
+      4
+    ],
+    "description": "BookStack is a simple, open-source, self-hosted, easy-to-use platform for organising and storing information."
+  },
+  {
+    "technology": "Borderfree",
+    "pattern": "bfx.apiKey:",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Borderfree is an cross-border ecommerce solutions provider."
+  },
+  {
+    "technology": "Borderfree",
+    "pattern": "bfx.country:",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Borderfree is an cross-border ecommerce solutions provider."
+  },
+  {
+    "technology": "Borderfree",
+    "pattern": "bfx.language",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Borderfree is an cross-border ecommerce solutions provider."
+  },
+  {
+    "technology": "Borderfree",
+    "pattern": "bfx.logLevel",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Borderfree is an cross-border ecommerce solutions provider."
+  },
+  {
+    "technology": "Botble CMS",
+    "pattern": "botble_session",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "BowNow",
+    "pattern": "bownow_act",
+    "threatLevel": 2,
+    "categories": [
+      32
+    ],
+    "description": "BowNow is a marketing automation tool with business card management, sales support, analysis, and email magazine functions."
+  },
+  {
+    "technology": "BowNow",
+    "pattern": "bownow_aid",
+    "threatLevel": 2,
+    "categories": [
+      32
+    ],
+    "description": "BowNow is a marketing automation tool with business card management, sales support, analysis, and email magazine functions."
+  },
+  {
+    "technology": "BowNow",
+    "pattern": "bownow_cid",
+    "threatLevel": 2,
+    "categories": [
+      32
+    ],
+    "description": "BowNow is a marketing automation tool with business card management, sales support, analysis, and email magazine functions."
+  },
+  {
+    "technology": "BowNow",
+    "pattern": "bownow_mbid",
+    "threatLevel": 2,
+    "categories": [
+      32
+    ],
+    "description": "BowNow is a marketing automation tool with business card management, sales support, analysis, and email magazine functions."
+  },
+  {
+    "technology": "Bsale",
+    "pattern": "_bsalemarket_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Bsale is an store management solution for retail businesses that sell both in store and online."
+  },
+  {
+    "technology": "Bugzilla",
+    "pattern": "Bugzilla_login_request_cookie",
+    "threatLevel": 0,
+    "categories": [
+      13
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Bynder",
+    "pattern": "bynder",
+    "threatLevel": 0,
+    "categories": [
+      95
+    ],
+    "description": "Bynder is a cloud-based marketing platform where brands create, find, and use all their digital content."
+  },
+  {
+    "technology": "CMS Made Simple",
+    "pattern": "CMSSESSID",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "CakePHP",
+    "pattern": "cakephp",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "CakePHP is an open-source web framework. It follows the model–view–controller (MVC) approach and is written in PHP."
+  },
+  {
+    "technology": "Chicago Boss",
+    "pattern": "_boss_session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Chicago Boss is a web framework for Erlang."
+  },
+  {
+    "technology": "Chorus",
+    "pattern": "_chorus_geoip_continent",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Chorus is the only all-in-one publishing, audience, and revenue platform built for modern media companies."
+  },
+  {
+    "technology": "Chorus",
+    "pattern": "chorus_preferences",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Chorus is the only all-in-one publishing, audience, and revenue platform built for modern media companies."
+  },
+  {
+    "technology": "CloudSuite",
+    "pattern": "cs_secure_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Cloudflare",
+    "pattern": "__cfduid",
+    "threatLevel": 0,
+    "categories": [
+      31
+    ],
+    "description": "Cloudflare is a web-infrastructure and website-security company, providing content-delivery-network services, DDoS mitigation, Internet security, and distributed domain-name-server services."
+  },
+  {
+    "technology": "Cloudflare Bot Management",
+    "pattern": "__cf_bm",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Cloudflare bot management solution identifies and mitigates automated traffic to protect websites from bad bots."
+  },
+  {
+    "technology": "Cloudify.store",
+    "pattern": "cloudify_session",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      93
+    ],
+    "description": "Cloudify.store is a subscription-based platform that allows anyone to set up a hyperlocal quick commerce business."
+  },
+  {
+    "technology": "CoconutSoftware",
+    "pattern": "coconut_calendar",
+    "threatLevel": 0,
+    "categories": [
+      5,
+      72
+    ],
+    "description": "Coconut is a cloud-based appointment scheduling solution designed for enterprise financial services organisations such as credit unions, retail banks and more."
+  },
+  {
+    "technology": "CodeIgniter",
+    "pattern": "ci_csrf_token",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "CodeIgniter",
+    "pattern": "ci_session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "CodeIgniter",
+    "pattern": "exp_last_activity",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "CodeIgniter",
+    "pattern": "exp_tracker",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Combahton FlowShield",
+    "pattern": "FLOWPROXY-ORIGIN",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Combahton FlowShield is a network security solution designed to protect networks and servers from various cyber threats, including DDoS attacks, malware, and other types of malicious traffic."
+  },
+  {
+    "technology": "Concrete CMS",
+    "pattern": "CONCRETE5",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Congressus",
+    "pattern": "_gat_congressus_analytics",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Congressus is a Dutch-language online application for member administration, financial management, communication and a linked website with webshop."
+  },
+  {
+    "technology": "Congressus",
+    "pattern": "congressus_session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Congressus is a Dutch-language online application for member administration, financial management, communication and a linked website with webshop."
+  },
+  {
+    "technology": "Craft CMS",
+    "pattern": "CraftSessionId",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Craft CMS is a content management system for building bespoke websites."
+  },
+  {
+    "technology": "Cratejoy",
+    "pattern": "cratejoy_muffin42",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "Cratejoy is a brand new ecommerce platform with a focus on subscription payments."
+  },
+  {
+    "technology": "Cratejoy",
+    "pattern": "statjoy_metrics",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "Cratejoy is a brand new ecommerce platform with a focus on subscription payments."
+  },
+  {
+    "technology": "cPanel",
+    "pattern": "cprelogin",
+    "threatLevel": 0,
+    "categories": [
+      9
+    ],
+    "description": "cPanel is a web hosting control panel. The software provides a graphical interface and automation tools designed to simplify the process of hosting a website."
+  },
+  {
+    "technology": "cPanel",
+    "pattern": "cpsession",
+    "threatLevel": 0,
+    "categories": [
+      9
+    ],
+    "description": "cPanel is a web hosting control panel. The software provides a graphical interface and automation tools designed to simplify the process of hosting a website."
+  },
+  {
+    "technology": "DERAK.CLOUD",
+    "pattern": "__derak_auth",
+    "threatLevel": 0,
+    "categories": [
+      31
+    ],
+    "description": ""
+  },
+  {
+    "technology": "DERAK.CLOUD",
+    "pattern": "__derak_user",
+    "threatLevel": 0,
+    "categories": [
+      31
+    ],
+    "description": ""
+  },
+  {
+    "technology": "DNN",
+    "pattern": "DotNetNukeAnonymous",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "DataDome",
+    "pattern": "datadome",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "DataDome is a cybersecurity platform that specialises in bot protection and mitigation, offering advanced solutions to safeguard websites and mobile applications against malicious bot traffic, credential stuffing, scraping, and other automated threats."
+  },
+  {
+    "technology": "DataDome",
+    "pattern": "datadome-_zldp",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "DataDome is a cybersecurity platform that specialises in bot protection and mitigation, offering advanced solutions to safeguard websites and mobile applications against malicious bot traffic, credential stuffing, scraping, and other automated threats."
+  },
+  {
+    "technology": "DataDome",
+    "pattern": "datadome-_zldt",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "DataDome is a cybersecurity platform that specialises in bot protection and mitigation, offering advanced solutions to safeguard websites and mobile applications against malicious bot traffic, credential stuffing, scraping, and other automated threats."
+  },
+  {
+    "technology": "DigitalRiver",
+    "pattern": "X-DR-SHOPPER-ets",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      41
+    ],
+    "description": "Digital River provides global ecommerce, payments and marketing services."
+  },
+  {
+    "technology": "DigitalRiver",
+    "pattern": "X-DR-THEME",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      41
+    ],
+    "description": "Digital River provides global ecommerce, payments and marketing services."
+  },
+  {
+    "technology": "Django",
+    "pattern": "django_language",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Django is a Python-based free and open-source web application framework."
+  },
+  {
+    "technology": "DokuWiki",
+    "pattern": "DokuWiki",
+    "threatLevel": 0,
+    "categories": [
+      8
+    ],
+    "description": "DokuWiki is a free open-source wiki software."
+  },
+  {
+    "technology": "Droxit",
+    "pattern": "droxit_a11y_state",
+    "threatLevel": 0,
+    "categories": [
+      68
+    ],
+    "description": "Droxit is an automated web accessibility solution."
+  },
+  {
+    "technology": "Duel",
+    "pattern": "_duelcsrf",
+    "threatLevel": 1,
+    "categories": [
+      71
+    ],
+    "description": "Duel is a customer advocacy marketing platform."
+  },
+  {
+    "technology": "Dynamic Yield",
+    "pattern": "_dy_geo",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76
+    ],
+    "description": "Dynamic Yield is a provider of automated conversion optimisation tools for marketers and retailers."
+  },
+  {
+    "technology": "Dynamic Yield",
+    "pattern": "_dy_ses_load_seq",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76
+    ],
+    "description": "Dynamic Yield is a provider of automated conversion optimisation tools for marketers and retailers."
+  },
+  {
+    "technology": "Dynamicweb",
+    "pattern": "Dynamicweb",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "Dynamicweb is a all-in-one platform for content management, ecommerce, digital marketing​, product information management (PIM) and integration."
+  },
+  {
+    "technology": "Dynatrace",
+    "pattern": "dtCookie1",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Dynatrace is a technology company that produces a software intelligence platform based on artificial intelligence to monitor and optimise application performance and development, IT infrastructure, and user experience for businesses and government agencies throughout the world."
+  },
+  {
+    "technology": "EKM",
+    "pattern": "ekmpowershop",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "EKM is an all-in-one online store builder, with the company based in the UK."
+  },
+  {
+    "technology": "Edgio",
+    "pattern": "layer0_bucket",
+    "threatLevel": 0,
+    "categories": [
+      31,
+      62
+    ],
+    "description": "Edgio is an integrated suite of Edge services, from Delivery to Compute."
+  },
+  {
+    "technology": "Edgio",
+    "pattern": "layer0_destination",
+    "threatLevel": 0,
+    "categories": [
+      31,
+      62
+    ],
+    "description": "Edgio is an integrated suite of Edge services, from Delivery to Compute."
+  },
+  {
+    "technology": "Edgio",
+    "pattern": "layer0_eid",
+    "threatLevel": 0,
+    "categories": [
+      31,
+      62
+    ],
+    "description": "Edgio is an integrated suite of Edge services, from Delivery to Compute."
+  },
+  {
+    "technology": "ElasticSuite",
+    "pattern": "STUID",
+    "threatLevel": 0,
+    "categories": [
+      29
+    ],
+    "description": "ElasticSuite is a merchandising suite for Magento and OroCommerce."
+  },
+  {
+    "technology": "ElasticSuite",
+    "pattern": "STVID",
+    "threatLevel": 0,
+    "categories": [
+      29
+    ],
+    "description": "ElasticSuite is a merchandising suite for Magento and OroCommerce."
+  },
+  {
+    "technology": "Eloqua",
+    "pattern": "ELOQUA",
+    "threatLevel": 2,
+    "categories": [
+      32
+    ],
+    "description": "Eloqua is a Software-as-a-Service (SaaS) platform for marketing automation offered that aims to help B2B marketers and organisations manage marketing campaigns and sales lead generation."
+  },
+  {
+    "technology": "ExpressionEngine",
+    "pattern": "exp_csrf_token",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "ExpressionEngine is a free and open-source CMS."
+  },
+  {
+    "technology": "ExpressionEngine",
+    "pattern": "exp_last_activity",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "ExpressionEngine is a free and open-source CMS."
+  },
+  {
+    "technology": "ExpressionEngine",
+    "pattern": "exp_tracker",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "ExpressionEngine is a free and open-source CMS."
+  },
+  {
+    "technology": "e107",
+    "pattern": "e107_tz",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "eZ Publish",
+    "pattern": "eZSESSID",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "F5_HT_shrinked",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "F5_ST",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "F5_fullWT",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "LastMRH_Session",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "MRHSHint",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "MRHSequence",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "MRHSession",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "F5 BigIP",
+    "pattern": "TIN",
+    "threatLevel": 0,
+    "categories": [
+      64
+    ],
+    "description": "F5's BIG-IP is a family of products covering software and hardware designed around application availability, access control, and security solutions."
+  },
+  {
+    "technology": "Fly.io",
+    "pattern": "_fly",
+    "threatLevel": 0,
+    "categories": [
+      62
+    ],
+    "description": "Fly is a platform for running full stack apps and databases."
+  },
+  {
+    "technology": "Flyspray",
+    "pattern": "flyspray_project",
+    "threatLevel": 0,
+    "categories": [
+      13
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Foodomaa",
+    "pattern": "foodomaa_session",
+    "threatLevel": 0,
+    "categories": [
+      93
+    ],
+    "description": "Foodomaa is a multi-restaurant food ordering and restaurant membership system."
+  },
+  {
+    "technology": "ForoshGostar",
+    "pattern": "Aws.customer",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Forter",
+    "pattern": "forterToken",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Forter is a SaaS company that provides fraud prevention technology for online retailers and marketplaces."
+  },
+  {
+    "technology": "Fortinet FortiGate",
+    "pattern": "FGTServer",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Fortinet FortiGate is a family of network security appliances that provide firewall, VPN, intrusion prevention, antivirus, web filtering, and other security features to protect and secure networks and data."
+  },
+  {
+    "technology": "Foswiki",
+    "pattern": "FOSWIKISTRIKEONE",
+    "threatLevel": 0,
+    "categories": [
+      8
+    ],
+    "description": "Foswiki is a free open-source collaboration platform."
+  },
+  {
+    "technology": "Foswiki",
+    "pattern": "SFOSWIKISID",
+    "threatLevel": 0,
+    "categories": [
+      8
+    ],
+    "description": "Foswiki is a free open-source collaboration platform."
+  },
+  {
+    "technology": "Gauges",
+    "pattern": "_gauges_",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "GitLab",
+    "pattern": "_gitlab_session",
+    "threatLevel": 0,
+    "categories": [
+      13,
+      47
+    ],
+    "description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license."
+  },
+  {
+    "technology": "Gitea",
+    "pattern": "i_like_gitea",
+    "threatLevel": 0,
+    "categories": [
+      47
+    ],
+    "description": "Gitea is an open-source forge software package for hosting software development version control using Git as well as other collaborative features like bug tracking, wikis and code review. It supports self-hosting but also provides a free public first-party instance hosted on DiDi's cloud."
+  },
+  {
+    "technology": "Global-e",
+    "pattern": "GLBE_SESS_ID",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Global-e is a provider of cross-border ecommerce solutions."
+  },
+  {
+    "technology": "Global-e",
+    "pattern": "GlobalE_CT_Data",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Global-e is a provider of cross-border ecommerce solutions."
+  },
+  {
+    "technology": "Global-e",
+    "pattern": "GlobalE_Consent",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Global-e is a provider of cross-border ecommerce solutions."
+  },
+  {
+    "technology": "Global-e",
+    "pattern": "GlobalE_Data",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Global-e is a provider of cross-border ecommerce solutions."
+  },
+  {
+    "technology": "Global-e",
+    "pattern": "GlobalE_SupportThirdPartCookies",
+    "threatLevel": 0,
+    "categories": [
+      106
+    ],
+    "description": "Global-e is a provider of cross-border ecommerce solutions."
+  },
+  {
+    "technology": "GoCertify",
+    "pattern": "_gocertify_session",
+    "threatLevel": 0,
+    "categories": [
+      5
+    ],
+    "description": "GoCertify is a conversion-focused and cost-effective way to verify students, key workers, under-26s, over-60s, military and more for exclusive discounts."
+  },
+  {
+    "technology": "GoDaddy Website Builder",
+    "pattern": "dps_site_id",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Gogs",
+    "pattern": "i_like_gogits",
+    "threatLevel": 0,
+    "categories": [
+      47
+    ],
+    "description": "Gogs is a self-hosted Git service written in Go."
+  },
+  {
+    "technology": "Google Analytics",
+    "pattern": "__utma",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Google Analytics is a free web analytics service that tracks and reports website traffic."
+  },
+  {
+    "technology": "Google Analytics",
+    "pattern": "_ga",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Google Analytics is a free web analytics service that tracks and reports website traffic."
+  },
+  {
+    "technology": "Google Analytics",
+    "pattern": "_ga_*",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Google Analytics is a free web analytics service that tracks and reports website traffic."
+  },
+  {
+    "technology": "Google Analytics",
+    "pattern": "_gat",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Google Analytics is a free web analytics service that tracks and reports website traffic."
+  },
+  {
+    "technology": "Graffiti CMS",
+    "pattern": "graffitibot",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "GrandNode",
+    "pattern": "Grand.customer",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "GrowingIO",
+    "pattern": "gr_user_id",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "GrowingIO",
+    "pattern": "grwng_uid",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Gumroad",
+    "pattern": "_gumroad_app_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Gumroad is a self-publishing digital marketplace platform to sell digital services such as books, memberships, courses and other digital services."
+  },
+  {
+    "technology": "Gumroad",
+    "pattern": "_gumroad_guid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Gumroad is a self-publishing digital marketplace platform to sell digital services such as books, memberships, courses and other digital services."
+  },
+  {
+    "technology": "H2O",
+    "pattern": "h2o_casper",
+    "threatLevel": 0,
+    "categories": [
+      22
+    ],
+    "description": "H2O is a fast and secure HTTP/2 server written in C by Kazuho Oku."
+  },
+  {
+    "technology": "Hotaru CMS",
+    "pattern": "hotaru_mobile",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Huberway",
+    "pattern": "huberway_session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Huberway is a content management system, based on PHP and JavaScript, used to create advanced sales portals oriented towards industrialization 4.0."
+  },
+  {
+    "technology": "ID5",
+    "pattern": "id5",
+    "threatLevel": 2,
+    "categories": [
+      36
+    ],
+    "description": "ID5 is a company that offers an identity solution for digital advertising, providing a Universal ID that enables privacy-compliant user recognition and tracking across websites without relying on personal information or third-party cookies."
+  },
+  {
+    "technology": "IP2Location.io",
+    "pattern": "ip2location_redirection_first_visit",
+    "threatLevel": 0,
+    "categories": [
+      79
+    ],
+    "description": "IP2Location.io is a web service that provides geolocation data based on IP addresses through its API, allowing developers to integrate accurate physical location information into their applications."
+  },
+  {
+    "technology": "IPB",
+    "pattern": "ipbWWLmodpids",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": ""
+  },
+  {
+    "technology": "IPB",
+    "pattern": "ipbWWLsession_id",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": ""
+  },
+  {
+    "technology": "ImpressCMS",
+    "pattern": "ICMSSession",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "ImpressCMS",
+    "pattern": "ImpressCMS",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Indico",
+    "pattern": "MAKACSESSION",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "InstantCMS",
+    "pattern": "InstantCMS[logdate]",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Intelligems",
+    "pattern": "ig-location",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76,
+      100
+    ],
+    "description": "Intelligems is an experimentation platform that helps developers build and run A/B tests on websites."
+  },
+  {
+    "technology": "Invenio",
+    "pattern": "INVENIOSESSION",
+    "threatLevel": 0,
+    "categories": [
+      50
+    ],
+    "description": "Invenio is an open-source software framework for large-scale digital repositories that provides the tools for management of digital assets in an institutional repository and research data management systems."
+  },
+  {
+    "technology": "Inveon",
+    "pattern": "INV.Customer",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Inveon is a technology company that has been delivering ecommerce infrastructure software and mcommerce applications."
+  },
+  {
+    "technology": "Inveon",
+    "pattern": "inveonSessionId",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Inveon is a technology company that has been delivering ecommerce infrastructure software and mcommerce applications."
+  },
+  {
+    "technology": "iEXExchanger",
+    "pattern": "iexexchanger_session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "JTL Shop",
+    "pattern": "JTLSHOP",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "JTL Shop is an ecommerce product created by JTL Software company."
+  },
+  {
+    "technology": "Java",
+    "pattern": "JSESSIONID",
+    "threatLevel": 0,
+    "categories": [
+      27
+    ],
+    "description": "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  },
+  {
+    "technology": "Jibres",
+    "pattern": "jibres",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      55
+    ],
+    "description": "Jibres is an ecommerce solution with an online store builder and Point-of-Sale (PoS) software."
+  },
+  {
+    "technology": "June",
+    "pattern": "_june_session",
+    "threatLevel": 3,
+    "categories": [
+      10,
+      97
+    ],
+    "description": "June is a product analytics for subscription businesses. It automatically generates graphs of the metrics users should track by connecting their segment account."
+  },
+  {
+    "technology": "Kajabi",
+    "pattern": "_kjb_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Kameleoon",
+    "pattern": "kameleoonVisitorCode",
+    "threatLevel": 0,
+    "categories": [
+      74
+    ],
+    "description": "Kameleoon is a personalisation technology platform for real-time omnichannel optimisation and conversion."
+  },
+  {
+    "technology": "Kasada",
+    "pattern": "KP_UIDz",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "Kasada is a cybersecurity company that provides a platform to protect websites and web applications from bot attacks and malicious activities."
+  },
+  {
+    "technology": "Kentico CMS",
+    "pattern": "CMSCookieLevel",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Kentico CMS is a web content management system for building websites, online stores, intranets, and Web 2.0 community sites."
+  },
+  {
+    "technology": "Kentico CMS",
+    "pattern": "CMSPreferredCulture",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Kentico CMS is a web content management system for building websites, online stores, intranets, and Web 2.0 community sites."
+  },
+  {
+    "technology": "Kicksite",
+    "pattern": "_kicksite_session",
+    "threatLevel": 0,
+    "categories": [
+      53
+    ],
+    "description": "Kicksite is a gym and martial arts member management software with attendance tracking, automated billing, free texting, lead capture forms and more."
+  },
+  {
+    "technology": "Klarna Checkout",
+    "pattern": "ku1-sid",
+    "threatLevel": 0,
+    "categories": [
+      41,
+      91
+    ],
+    "description": "Klarna Checkout is a complete payment solution where Klarna handles a store's entire checkout."
+  },
+  {
+    "technology": "Klarna Checkout",
+    "pattern": "ku1-vid",
+    "threatLevel": 0,
+    "categories": [
+      41,
+      91
+    ],
+    "description": "Klarna Checkout is a complete payment solution where Klarna handles a store's entire checkout."
+  },
+  {
+    "technology": "Kohana",
+    "pattern": "kohanasession",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Koken",
+    "pattern": "koken_referrer",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Laravel",
+    "pattern": "laravel_session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Laravel is a free, open-source PHP web framework."
+  },
+  {
+    "technology": "LightMon Engine",
+    "pattern": "lm_online",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Lithium",
+    "pattern": "LithiumVisitor",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Loop54",
+    "pattern": "Loop54User",
+    "threatLevel": 1,
+    "categories": [
+      29,
+      76
+    ],
+    "description": "Loop54 is a ecommerce search and navigation SaaS product."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "X-Magento-Vary",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "frontend",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "mage-cache-storage",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "mage-cache-storage-section-invalidation",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "mage-translation-file-version",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Magento",
+    "pattern": "mage-translation-storage",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Magento is an open-source ecommerce platform written in PHP."
+  },
+  {
+    "technology": "Maho",
+    "pattern": "maho_session",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Maho is a modern, open-source ecommerce platform forked from OpenMage, offering enhanced developer experience while maintaining Magento 1 compatibility."
+  },
+  {
+    "technology": "Marketpath CMS",
+    "pattern": "_mp_permissions",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Marketpath CMS is a hosted website content management system used by businesses, churches and schools."
+  },
+  {
+    "technology": "Mastodon",
+    "pattern": "_mastodon_session",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "Mastodon is a free and open-source self-hosted social networking service."
+  },
+  {
+    "technology": "Matomo Analytics",
+    "pattern": "PIWIK_SESSID",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": "Matomo Analytics is a free and open-source web analytics application, that runs on a PHP/MySQL web-server."
+  },
+  {
+    "technology": "Medallia",
+    "pattern": "k_visit",
+    "threatLevel": 2,
+    "categories": [
+      10,
+      13,
+      73
+    ],
+    "description": "Medallia (formerly Kampyle) is a complete customer feedback platform that helps digital enterprises listen, understand, and act across all digital touch-points."
+  },
+  {
+    "technology": "Mediavine",
+    "pattern": "mediavine_session",
+    "threatLevel": 2,
+    "categories": [
+      36
+    ],
+    "description": "Mediavine is a full service ad management platform."
+  },
+  {
+    "technology": "MemberStack",
+    "pattern": "memberstack",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "MemberStack is a no-code membership platform for Webflow."
+  },
+  {
+    "technology": "Mercado Shops",
+    "pattern": "_mshops_ga_gid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Mercado Shops is an all-in-one ecommerce platform."
+  },
+  {
+    "technology": "Microsoft ASP.NET",
+    "pattern": "ASP.NET_SessionId",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "ASP.NET is an open-source, server-side web-application framework designed for web development to produce dynamic web pages."
+  },
+  {
+    "technology": "Microsoft ASP.NET",
+    "pattern": "ASPSESSION",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "ASP.NET is an open-source, server-side web-application framework designed for web development to produce dynamic web pages."
+  },
+  {
+    "technology": "Microsoft Advertising",
+    "pattern": "_uetsid",
+    "threatLevel": 2,
+    "categories": [
+      36
+    ],
+    "description": "Microsoft Advertising is an online advertising platform developed by Microsoft."
+  },
+  {
+    "technology": "Microsoft Advertising",
+    "pattern": "_uetvid",
+    "threatLevel": 2,
+    "categories": [
+      36
+    ],
+    "description": "Microsoft Advertising is an online advertising platform developed by Microsoft."
+  },
+  {
+    "technology": "MoinMoin",
+    "pattern": "MOIN_SESSION",
+    "threatLevel": 0,
+    "categories": [
+      8
+    ],
+    "description": "MoinMoin is a wiki engine implemented in Python."
+  },
+  {
+    "technology": "Moodle",
+    "pattern": "MOODLEID_",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Moodle is a free and open-source Learning Management System (LMS) written in PHP and distributed under the GNU General Public License."
+  },
+  {
+    "technology": "Moodle",
+    "pattern": "MoodleSession",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Moodle is a free and open-source Learning Management System (LMS) written in PHP and distributed under the GNU General Public License."
+  },
+  {
+    "technology": "MyBB",
+    "pattern": "mybb[lastactive]",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "MyBB is a free and open-source forum software written in PHP."
+  },
+  {
+    "technology": "MyBB",
+    "pattern": "mybb[lastvisit]",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "MyBB is a free and open-source forum software written in PHP."
+  },
+  {
+    "technology": "NetSuite",
+    "pattern": "NS_VER",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Nette Framework",
+    "pattern": "nette-browser",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "NextAuth.js",
+    "pattern": "__Host-next-auth.csrf-token",
+    "threatLevel": 0,
+    "categories": [
+      69
+    ],
+    "description": "NextAuth.js is a complete open-source authentication solution for Next.js applications."
+  },
+  {
+    "technology": "NextAuth.js",
+    "pattern": "__Secure-next-auth.callback-url",
+    "threatLevel": 0,
+    "categories": [
+      69
+    ],
+    "description": "NextAuth.js is a complete open-source authentication solution for Next.js applications."
+  },
+  {
+    "technology": "Nextcloud",
+    "pattern": " __Host-nc_sameSiteCookielax",
+    "threatLevel": 0,
+    "categories": [
+      95,
+      19
+    ],
+    "description": "Nextcloud is a suite of client-server software for creating and using file hosting services."
+  },
+  {
+    "technology": "Nextcloud",
+    "pattern": "__Host-nc_sameSiteCookiestrict",
+    "threatLevel": 0,
+    "categories": [
+      95,
+      19
+    ],
+    "description": "Nextcloud is a suite of client-server software for creating and using file hosting services."
+  },
+  {
+    "technology": "nopCommerce",
+    "pattern": "Nop.customer",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "nopCommerce is an open-source ecommerce solution based on Microsoft's ASP​.NET Core framework and MS SQL Server 2012 (or higher) backend database."
+  },
+  {
+    "technology": "OXID eShop",
+    "pattern": "sid_key",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "OXID eShop is a free, open source ecommerce solution built using object oriented programming and PHP."
+  },
+  {
+    "technology": "October CMS",
+    "pattern": "october_session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework."
+  },
+  {
+    "technology": "Ometria",
+    "pattern": "ometria",
+    "threatLevel": 3,
+    "categories": [
+      32,
+      97
+    ],
+    "description": "Ometria is a customer insight and marketing automation platform."
+  },
+  {
+    "technology": "Omnisend",
+    "pattern": "omnisendSessionID",
+    "threatLevel": 2,
+    "categories": [
+      32,
+      75
+    ],
+    "description": "Omnisend is an ecommerce marketing automation platform that provides an omnichannel marketing strategy for businesses."
+  },
+  {
+    "technology": "OneTrust",
+    "pattern": "OptanonConsent",
+    "threatLevel": 1,
+    "categories": [
+      67
+    ],
+    "description": "OneTrust is a cloud-based data privacy management compliance platform."
+  },
+  {
+    "technology": "Open Journal Systems",
+    "pattern": "OJSSID",
+    "threatLevel": 0,
+    "categories": [
+      50
+    ],
+    "description": "Open Journal Systems (OJS) is an open-source software application for managing and publishing scholarly journals."
+  },
+  {
+    "technology": "OpenCart",
+    "pattern": "OCSESSID",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "OpenCart is a free and open-source ecommerce platform used for creating and managing online stores. It is written in PHP and uses a MySQL database to store information."
+  },
+  {
+    "technology": "OpenGrok",
+    "pattern": "OpenGrok",
+    "threatLevel": 0,
+    "categories": [
+      19
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Optimizely",
+    "pattern": "optimizelyEndUserId",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76
+    ],
+    "description": "Optimizely is an experimentation platform that helps developers build and run A/B tests on websites."
+  },
+  {
+    "technology": "Optimizely Commerce",
+    "pattern": "EPi:StateMarker",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Optimizely Commerce is a complete suite for digital ecommerce and content management that uses artificial intelligence to deliver personalised experiences, individualised search rankings and product recommendations."
+  },
+  {
+    "technology": "Optimizely Content Management",
+    "pattern": "EPi:StateMarker",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Optimizely Content Management (formerly EPiServer) is digital content, ecommerce, and marketing management solution designed for editors and marketers."
+  },
+  {
+    "technology": "Optimizely Content Management",
+    "pattern": "EPiServer",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Optimizely Content Management (formerly EPiServer) is digital content, ecommerce, and marketing management solution designed for editors and marketers."
+  },
+  {
+    "technology": "Optimizely Content Management",
+    "pattern": "EPiSessionId",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Optimizely Content Management (formerly EPiServer) is digital content, ecommerce, and marketing management solution designed for editors and marketers."
+  },
+  {
+    "technology": "Optimizely Content Management",
+    "pattern": "EPiTrace",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Optimizely Content Management (formerly EPiServer) is digital content, ecommerce, and marketing management solution designed for editors and marketers."
+  },
+  {
+    "technology": "osCommerce",
+    "pattern": "osCsid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "OsCommerce is an open-source ecommerce and online store-management software program​."
+  },
+  {
+    "technology": "osTicket",
+    "pattern": "OSTSESSID",
+    "threatLevel": 0,
+    "categories": [
+      13
+    ],
+    "description": ""
+  },
+  {
+    "technology": "PHP",
+    "pattern": "PHPSESSID",
+    "threatLevel": 0,
+    "categories": [
+      27
+    ],
+    "description": "PHP is a general-purpose scripting language used for web development."
+  },
+  {
+    "technology": "Pandectes",
+    "pattern": "_pandectes_gdpr",
+    "threatLevel": 1,
+    "categories": [
+      67,
+      100
+    ],
+    "description": "Pandectes is a cloud-based data privacy management compliance platform for Shopify stores, ensuring compliance with GDPR, CCPA/CPRA, VCDPA, APPI, PIPEDA, and PDPA regulations."
+  },
+  {
+    "technology": "Paymenter",
+    "pattern": "paymenter_session",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "Paymenter is an open-source webshop solution for hosting companies."
+  },
+  {
+    "technology": "PerimeterX",
+    "pattern": "_px3",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "PerimeterX is a provider of scalable, behavior-based threat protection technology for the web, cloud, and mobile."
+  },
+  {
+    "technology": "PerimeterX",
+    "pattern": "_pxff_cc",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "PerimeterX is a provider of scalable, behavior-based threat protection technology for the web, cloud, and mobile."
+  },
+  {
+    "technology": "PerimeterX",
+    "pattern": "_pxhd",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "PerimeterX is a provider of scalable, behavior-based threat protection technology for the web, cloud, and mobile."
+  },
+  {
+    "technology": "PerimeterX",
+    "pattern": "_pxvid",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "PerimeterX is a provider of scalable, behavior-based threat protection technology for the web, cloud, and mobile."
+  },
+  {
+    "technology": "Phabricator",
+    "pattern": "phsid",
+    "threatLevel": 0,
+    "categories": [
+      13,
+      47
+    ],
+    "description": "Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki. Phabricator integrates with Git, Mercurial, and Subversion."
+  },
+  {
+    "technology": "Phoenix Site",
+    "pattern": "phoenix_p_session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Phoenix Site software has been developed by the Internet Marketing Union and is especially intended for entrepreneurs (without technical knowledge) who want to score better in Google (SEO) and get more leads and customers (conversion) from their website."
+  },
+  {
+    "technology": "Play",
+    "pattern": "PLAY_SESSION",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Plug&Pay",
+    "pattern": "plug_pay_session",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      41
+    ],
+    "description": "Plug&Pay is a payment processor that provides payment solutions for ecommerce businesses."
+  },
+  {
+    "technology": "Podia",
+    "pattern": "_podia_storefront_visitor_id",
+    "threatLevel": 0,
+    "categories": [
+      21,
+      6
+    ],
+    "description": "Podia is a platform to host and sell online courses, memberships, and digital downloads."
+  },
+  {
+    "technology": "Polylang",
+    "pattern": "pll_language",
+    "threatLevel": 0,
+    "categories": [
+      87,
+      89
+    ],
+    "description": "Polylang is a WordPress plugin which allows you to create multilingual WordPress site."
+  },
+  {
+    "technology": "Popmenu",
+    "pattern": "Popmenu-Token",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      93
+    ],
+    "description": "Popmenu is a restaurant platform which offers CMS, online menus, ordering and delivery and marketing automation solutions."
+  },
+  {
+    "technology": "Prepr",
+    "pattern": "__prepr_uid",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Prepr is a headless CMS with data-driven capabilities."
+  },
+  {
+    "technology": "PrestaShop",
+    "pattern": "PrestaShop",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "PrestaShop is a freemium, open-source ecommerce solution, written in the PHP programming language with support for the MySQL database management system."
+  },
+  {
+    "technology": "ProfilePress",
+    "pattern": "ppwp_wp_session",
+    "threatLevel": 0,
+    "categories": [
+      87
+    ],
+    "description": "ProfilePress is a WordPress registration plugin that lets you create login forms, registration forms, user profiles, and more."
+  },
+  {
+    "technology": "PromoBuilding",
+    "pattern": "promobuilding_session",
+    "threatLevel": 0,
+    "categories": [
+      51
+    ],
+    "description": "PromoBuilding is a subscription-based website builder for optimising budgets for creating promotional campaigns."
+  },
+  {
+    "technology": "Pterodactyl Panel",
+    "pattern": "pterodactyl_session",
+    "threatLevel": 0,
+    "categories": [
+      9
+    ],
+    "description": "Pterodactyl Panel is a free, open-source game server management panel built with PHP, React, and Go."
+  },
+  {
+    "technology": "Public CMS",
+    "pattern": "PUBLICCMS_USER",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Pulse Secure",
+    "pattern": "DSSIGNIN",
+    "threatLevel": 0,
+    "categories": [
+      46
+    ],
+    "description": "Pulse Secure allows to deploy VPNs to securely to your internal resources."
+  },
+  {
+    "technology": "PyroCMS",
+    "pattern": "pyrocms",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "phpBB",
+    "pattern": "phpbb",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "phpBB is a free open-source Internet forum package in the PHP scripting language."
+  },
+  {
+    "technology": "pinoox",
+    "pattern": "pinoox_session",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Quanta",
+    "pattern": "_qta_rum",
+    "threatLevel": 2,
+    "categories": [
+      78,
+      10
+    ],
+    "description": "Quanta is web performance management solution. Quanta offers the only analytics solution specifically designed to enable business and technical members of ecommerce teams to collaborate effectively with the end in mind: use web performance to directly impact online revenue at all times."
+  },
+  {
+    "technology": "Quintype",
+    "pattern": "qtype-session",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Quintype is a digital publishing platform that provides content management, audience engagement, and monetisation solutions for digital media organisations."
+  },
+  {
+    "technology": "Rakuten",
+    "pattern": "rakuten-source",
+    "threatLevel": 1,
+    "categories": [
+      71
+    ],
+    "description": "Rakuten (formerly Ebates) allows you to earn cash-back rewards."
+  },
+  {
+    "technology": "Rawabit",
+    "pattern": "rawabit_session",
+    "threatLevel": 0,
+    "categories": [
+      51
+    ],
+    "description": "Rawabit is a website builder that lets small businesses design landing pages, modify sections, and embed content links using a drag and drop editor."
+  },
+  {
+    "technology": "RedCart",
+    "pattern": "rc2c-erotica",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "RedCart is an all-in-one ecommerce platform from Poland."
+  },
+  {
+    "technology": "Redmine",
+    "pattern": "_redmine_session",
+    "threatLevel": 0,
+    "categories": [
+      13
+    ],
+    "description": "Redmine is a free and open-source, web-based project management and issue tracking tool."
+  },
+  {
+    "technology": "Retail Rocket",
+    "pattern": "rr-testCookie",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Retail Rocket is a big data-based personalisation platform for ecommerce websites."
+  },
+  {
+    "technology": "Retail Rocket",
+    "pattern": "rrpvid",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "Retail Rocket is a big data-based personalisation platform for ecommerce websites."
+  },
+  {
+    "technology": "RevLifter",
+    "pattern": "REVLIFTER",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "RevLifter is an AI-powered coupon technology which allows brands to offer personalised incentives to their customers based on real-time basket data."
+  },
+  {
+    "technology": "Revel",
+    "pattern": "REVEL_FLASH",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Revel",
+    "pattern": "REVEL_SESSION",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Ruby on Rails",
+    "pattern": "_session_id",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License."
+  },
+  {
+    "technology": "SAP Commerce Cloud",
+    "pattern": "_hybris",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "SAP Commerce Cloud is a cloud-native omnichannel commerce solution for B2B, B2C, and B2B2C companies."
+  },
+  {
+    "technology": "Sails.js",
+    "pattern": "sails.sid",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Sailthru",
+    "pattern": "sailthru_pageviews",
+    "threatLevel": 2,
+    "categories": [
+      32,
+      75,
+      76
+    ],
+    "description": "Sailthru is a marketing automation software and multi-channel personalisation tool that serves ecommerce and media brands."
+  },
+  {
+    "technology": "Sakai",
+    "pattern": "SAKAIID",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Sakai is a robust open-source learning management system created by higher ed for higher ed."
+  },
+  {
+    "technology": "Salesforce",
+    "pattern": "com.salesforce",
+    "threatLevel": 0,
+    "categories": [
+      53
+    ],
+    "description": "Salesforce is a cloud computing service software (SaaS) that specializes in customer relationship management (CRM)."
+  },
+  {
+    "technology": "Salesforce Commerce Cloud",
+    "pattern": "dw_dnt",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Salesforce Commerce Cloud is a cloud-based software-as-a-service (SaaS) ecommerce solution."
+  },
+  {
+    "technology": "Salesforce Commerce Cloud",
+    "pattern": "dwsid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Salesforce Commerce Cloud is a cloud-based software-as-a-service (SaaS) ecommerce solution."
+  },
+  {
+    "technology": "Sensors Data",
+    "pattern": "sensorsdata2015jssdkcross",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Sensors Data",
+    "pattern": "sensorsdata2015session",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Service Provider Pro",
+    "pattern": "spp_csrf",
+    "threatLevel": 0,
+    "categories": [
+      41,
+      53
+    ],
+    "description": "Service Provider Pro is a client management & billing software for productized service agencies."
+  },
+  {
+    "technology": "Service Provider Pro",
+    "pattern": "spp_orderform",
+    "threatLevel": 0,
+    "categories": [
+      41,
+      53
+    ],
+    "description": "Service Provider Pro is a client management & billing software for productized service agencies."
+  },
+  {
+    "technology": "Service Provider Pro",
+    "pattern": "spp_session",
+    "threatLevel": 0,
+    "categories": [
+      41,
+      53
+    ],
+    "description": "Service Provider Pro is a client management & billing software for productized service agencies."
+  },
+  {
+    "technology": "Shift4Shop",
+    "pattern": "3dvisit",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "Shift4Shop, formerly known as 3Dcart, is an ecommerce software provider for online businesses."
+  },
+  {
+    "technology": "ShopGold",
+    "pattern": "eGold",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "ShopGold is an all-in-one payment processing and ecommerce solution."
+  },
+  {
+    "technology": "ShopGold",
+    "pattern": "popup_shopGold",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "ShopGold is an all-in-one payment processing and ecommerce solution."
+  },
+  {
+    "technology": "ShopGold",
+    "pattern": "popup_shopGold_time",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "ShopGold is an all-in-one payment processing and ecommerce solution."
+  },
+  {
+    "technology": "Shopaholic",
+    "pattern": "shopaholic_cart_id",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Shopaholic is an open-source ecosystem of plugins and themes for rapid ecommerce website development that allows building projects from small to large online shops."
+  },
+  {
+    "technology": "Shopify",
+    "pattern": "_shopify_s",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Shopify is a subscription-based software that allows anyone to set up an online store and sell their products. Shopify store owners can also sell in physical locations using Shopify POS, a point-of-sale app and accompanying hardware."
+  },
+  {
+    "technology": "Shopify",
+    "pattern": "_shopify_y",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      1
+    ],
+    "description": "Shopify is a subscription-based software that allows anyone to set up an online store and sell their products. Shopify store owners can also sell in physical locations using Shopify POS, a point-of-sale app and accompanying hardware."
+  },
+  {
+    "technology": "Shoplazza",
+    "pattern": "shoplazza_source",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Shoplazza is a SaaS ecommerce platform."
+  },
+  {
+    "technology": "SimpleSAMLphp",
+    "pattern": "SimpleSAML",
+    "threatLevel": 0,
+    "categories": [
+      69
+    ],
+    "description": "SimpleSAMLphp is an open-source PHP authentication application that provides support for SAML 2.0 as a Service Provider (SP) or Identity Provider (IdP)."
+  },
+  {
+    "technology": "SimpleSAMLphp",
+    "pattern": "SimpleSAMLSessionID",
+    "threatLevel": 0,
+    "categories": [
+      69
+    ],
+    "description": "SimpleSAMLphp is an open-source PHP authentication application that provides support for SAML 2.0 as a Service Provider (SP) or Identity Provider (IdP)."
+  },
+  {
+    "technology": "Simplero Websites",
+    "pattern": "_simplero_session_id",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Simplero Websites are a learning management system which suited for courses, coaching programs, memberships and digital products by Simplero."
+  },
+  {
+    "technology": "Sitecore",
+    "pattern": "SC_ANALYTICS_GLOBAL_COOKIE",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Sitecore provides web content management, and multichannel marketing automation software."
+  },
+  {
+    "technology": "Sitecore",
+    "pattern": "SC_OS_SessionId",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Sitecore provides web content management, and multichannel marketing automation software."
+  },
+  {
+    "technology": "Sitecore",
+    "pattern": "sc_expview",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Sitecore provides web content management, and multichannel marketing automation software."
+  },
+  {
+    "technology": "Sitecore",
+    "pattern": "sxa_site",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Sitecore provides web content management, and multichannel marketing automation software."
+  },
+  {
+    "technology": "Sitevision CMS",
+    "pattern": "SiteVisionLTM",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Sitevision CMS is a platform for web publishing that consists of flexible and pre-made modules. Available as self-hosed software and Cloud SaaS."
+  },
+  {
+    "technology": "Smartstore",
+    "pattern": "SMARTSTORE.CUSTOMER",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Smartstore is an open-source ecommerce system with CMS capabilities."
+  },
+  {
+    "technology": "Smartstore",
+    "pattern": "SMARTSTORE.VISITOR",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Smartstore is an open-source ecommerce system with CMS capabilities."
+  },
+  {
+    "technology": "Snipcart",
+    "pattern": "snipcart-cart",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Snipcart is a shopping cart platform that can be integrated into any website with simple HTML and JavaScript."
+  },
+  {
+    "technology": "Snowplow Analytics",
+    "pattern": "_sp_id",
+    "threatLevel": 2,
+    "categories": [
+      10,
+      63
+    ],
+    "description": "Snowplow is an open-source behavioral data management platform for businesses."
+  },
+  {
+    "technology": "Snowplow Analytics",
+    "pattern": "sp",
+    "threatLevel": 2,
+    "categories": [
+      10,
+      63
+    ],
+    "description": "Snowplow is an open-source behavioral data management platform for businesses."
+  },
+  {
+    "technology": "Solusquare OmniCommerce Cloud",
+    "pattern": "_solusquare",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "SoteShop",
+    "pattern": "soteshop",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "SoteShop is an e-shop management software."
+  },
+  {
+    "technology": "Sourcepoint",
+    "pattern": "_sp_enable_dfp_personalized_ads",
+    "threatLevel": 1,
+    "categories": [
+      67
+    ],
+    "description": "Sourcepoint is the data privacy software company for the digital marketing ecosystem."
+  },
+  {
+    "technology": "SpiritShop",
+    "pattern": "SPIRITSHOP_ID",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "SpiritShop is an ecommerce plataform."
+  },
+  {
+    "technology": "Stripe",
+    "pattern": "__stripe_mid",
+    "threatLevel": 0,
+    "categories": [
+      41
+    ],
+    "description": "Stripe offers online payment processing for internet businesses as well as fraud prevention, invoicing and subscription management."
+  },
+  {
+    "technology": "Stripe",
+    "pattern": "__stripe_sid",
+    "threatLevel": 0,
+    "categories": [
+      41
+    ],
+    "description": "Stripe offers online payment processing for internet businesses as well as fraud prevention, invoicing and subscription management."
+  },
+  {
+    "technology": "Swell",
+    "pattern": "swell-session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Swell is a headless ecommerce platform for modern brands, startups, and agencies."
+  },
+  {
+    "technology": "Symfony",
+    "pattern": "sf_redirect",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Symfony is a PHP web application framework and a set of reusable PHP components/libraries."
+  },
+  {
+    "technology": "TN Express Web",
+    "pattern": "TNEW",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Tessitura is an enterprise application to manage activities in ticketing, fundraising, customer relationship management, and marketing."
+  },
+  {
+    "technology": "TWiki",
+    "pattern": "TWIKISID",
+    "threatLevel": 0,
+    "categories": [
+      8
+    ],
+    "description": "TWiki is an open-source wiki and application platform."
+  },
+  {
+    "technology": "Taboola",
+    "pattern": "taboola_session_id",
+    "threatLevel": 2,
+    "categories": [
+      36
+    ],
+    "description": "Taboola is a content discovery & native advertising platform for publishers and advertisers."
+  },
+  {
+    "technology": "Tallentor Widget",
+    "pattern": "tallentor_widget",
+    "threatLevel": 0,
+    "categories": [
+      52
+    ],
+    "description": "Tallentor is a subscription-based software website analytics, heatmap, channel chat intergration."
+  },
+  {
+    "technology": "Tawk.to",
+    "pattern": "TawkConnectionTime",
+    "threatLevel": 0,
+    "categories": [
+      52
+    ],
+    "description": "Tawk.to is a free messaging app to monitor and chat with the visitors to a website, mobile app."
+  },
+  {
+    "technology": "Teachable",
+    "pattern": "_gat_teachableTracker",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Teachable is a learning management system or LMS platform."
+  },
+  {
+    "technology": "ThinkPHP",
+    "pattern": "thinkphp_show_page_trace",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "ThinkPHP is an open-source PHP framework with MVC structure developed and maintained by Shanghai Topthink Company."
+  },
+  {
+    "technology": "Thinkific",
+    "pattern": "_thinkific_session",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Thinkific is a software platform that enables entrepreneurs to create, market, sell, and deliver their own online courses."
+  },
+  {
+    "technology": "Totara",
+    "pattern": "TotaraSession",
+    "threatLevel": 0,
+    "categories": [
+      21
+    ],
+    "description": "Totara is a learning management system designed for businesses."
+  },
+  {
+    "technology": "Trbo",
+    "pattern": "trbo_session",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76
+    ],
+    "description": "Trbo is a personalisation, recommendations, A/B testing platform from Germany."
+  },
+  {
+    "technology": "Trbo",
+    "pattern": "trbo_usr",
+    "threatLevel": 1,
+    "categories": [
+      74,
+      76
+    ],
+    "description": "Trbo is a personalisation, recommendations, A/B testing platform from Germany."
+  },
+  {
+    "technology": "Typof",
+    "pattern": "typof_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Typof is an ecommerce platform for artisans that allows to create a premium website and sell items directly to the consumer."
+  },
+  {
+    "technology": "Umbraco",
+    "pattern": "merchello",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": "Umbraco is an open-source Microsoft ASP.NET based content management system."
+  },
+  {
+    "technology": "Unas",
+    "pattern": "UnasID",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Unas is an all-in-one ecommerce platform from Hungary."
+  },
+  {
+    "technology": "Unas",
+    "pattern": "UnasServiceProxyID",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Unas is an all-in-one ecommerce platform from Hungary."
+  },
+  {
+    "technology": "Ushahidi",
+    "pattern": "ushahidi",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      35
+    ],
+    "description": "Ushahidi is a tool that collects crowdsourced data and targeted survey responses from multiple data sources."
+  },
+  {
+    "technology": "VIVVO",
+    "pattern": "VivvoSessionId",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "VTEX",
+    "pattern": "VtexFingerPrint",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "VTEX is an ecommerce software that manages multiple online stores."
+  },
+  {
+    "technology": "VTEX",
+    "pattern": "VtexStoreVersion",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "VTEX is an ecommerce software that manages multiple online stores."
+  },
+  {
+    "technology": "VTEX",
+    "pattern": "VtexWorkspace",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "VTEX is an ecommerce software that manages multiple online stores."
+  },
+  {
+    "technology": "VTEX",
+    "pattern": "vtex_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "VTEX is an ecommerce software that manages multiple online stores."
+  },
+  {
+    "technology": "VentryShield",
+    "pattern": "ventryshield_pre",
+    "threatLevel": 0,
+    "categories": [
+      16
+    ],
+    "description": "VentryShield offers DDoS Protected VPS and Web Hosting."
+  },
+  {
+    "technology": "Vigbo",
+    "pattern": "_gphw_mode",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Visualsoft",
+    "pattern": "vscommerce",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Visualsoft is an ecommerce agency that delivers web design, development and marketing services to online retailers."
+  },
+  {
+    "technology": "Voracio",
+    "pattern": "voracio_csrf_token",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Voracio is a cloud SaaS ecommerce platform powered by Microsoft .NET and built on the Microsoft Azure cloud framework."
+  },
+  {
+    "technology": "Voracio",
+    "pattern": "voracio_sessionid",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Voracio is a cloud SaaS ecommerce platform powered by Microsoft .NET and built on the Microsoft Azure cloud framework."
+  },
+  {
+    "technology": "vBulletin",
+    "pattern": "bblastactivity",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "vBulletin is tool that is used to create and manage online forums or discussion boards. It is written in PHP and uses a MySQL database server."
+  },
+  {
+    "technology": "vBulletin",
+    "pattern": "bblastvisit",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "vBulletin is tool that is used to create and manage online forums or discussion boards. It is written in PHP and uses a MySQL database server."
+  },
+  {
+    "technology": "vBulletin",
+    "pattern": "bbsessionhash",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "vBulletin is tool that is used to create and manage online forums or discussion boards. It is written in PHP and uses a MySQL database server."
+  },
+  {
+    "technology": "WPML",
+    "pattern": "wp-wpml_current_language",
+    "threatLevel": 0,
+    "categories": [
+      87,
+      89
+    ],
+    "description": "WPML plugin makes it possible to build and run fully multilingual WordPress sites."
+  },
+  {
+    "technology": "WebGUI",
+    "pattern": "wgSession",
+    "threatLevel": 0,
+    "categories": [
+      1
+    ],
+    "description": ""
+  },
+  {
+    "technology": "WebMetric",
+    "pattern": "_wmuid",
+    "threatLevel": 2,
+    "categories": [
+      10
+    ],
+    "description": ""
+  },
+  {
+    "technology": "WebNode",
+    "pattern": "_gat_wnd_header",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      51
+    ],
+    "description": "Webnode is a drag-and-drop online website builder."
+  },
+  {
+    "technology": "Websale",
+    "pattern": "websale_ac",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Welcart",
+    "pattern": "usces_cookie",
+    "threatLevel": 0,
+    "categories": [
+      6,
+      87
+    ],
+    "description": "Welcart is a free ecommerce plugin for WordPress with top market share in Japan."
+  },
+  {
+    "technology": "Wix",
+    "pattern": "Domain",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      11
+    ],
+    "description": "Wix provides cloud-based web development services, allowing users to create HTML5 websites and mobile sites."
+  },
+  {
+    "technology": "XenForo",
+    "pattern": "xf_csrf",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "XenForo is a PHP-based forum hosting program for communities that is designed to be deployed on a remote web server."
+  },
+  {
+    "technology": "XenForo",
+    "pattern": "xf_session",
+    "threatLevel": 0,
+    "categories": [
+      2
+    ],
+    "description": "XenForo is a PHP-based forum hosting program for communities that is designed to be deployed on a remote web server."
+  },
+  {
+    "technology": "Yii",
+    "pattern": "YII_CSRF_TOKEN",
+    "threatLevel": 0,
+    "categories": [
+      18
+    ],
+    "description": "Yii is an open-source, object-oriented, component-based MVC PHP web application framework."
+  },
+  {
+    "technology": "Zeald",
+    "pattern": "ZES_BACKEND",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Zeald is a full-service website design and digital marketing company."
+  },
+  {
+    "technology": "Zend",
+    "pattern": "ZENDSERVERSESSID",
+    "threatLevel": 0,
+    "categories": [
+      22
+    ],
+    "description": ""
+  },
+  {
+    "technology": "Zendesk",
+    "pattern": "_help_center_session",
+    "threatLevel": 0,
+    "categories": [
+      4,
+      13,
+      52
+    ],
+    "description": "Zendesk is a cloud-based help desk management solution offering customizable tools to build customer service portal, knowledge base and online communities."
+  },
+  {
+    "technology": "Zendesk",
+    "pattern": "_zendesk_cookie",
+    "threatLevel": 0,
+    "categories": [
+      4,
+      13,
+      52
+    ],
+    "description": "Zendesk is a cloud-based help desk management solution offering customizable tools to build customer service portal, knowledge base and online communities."
+  },
+  {
+    "technology": "Zendesk",
+    "pattern": "_zendesk_shared_session",
+    "threatLevel": 0,
+    "categories": [
+      4,
+      13,
+      52
+    ],
+    "description": "Zendesk is a cloud-based help desk management solution offering customizable tools to build customer service portal, knowledge base and online communities."
+  },
+  {
+    "technology": "Zid",
+    "pattern": "zid_catalog_session",
+    "threatLevel": 0,
+    "categories": [
+      6
+    ],
+    "description": "Zid is an ecommerce SaaS that allows merchants to build and manage their online stores."
+  },
+  {
+    "technology": "Zimbra",
+    "pattern": "ZM_TEST",
+    "threatLevel": 0,
+    "categories": [
+      30
+    ],
+    "description": ""
+  },
+  {
+    "technology": "1C-Bitrix",
+    "pattern": "BITRIX_SM_GUEST_ID",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "1C-Bitrix is a system of web project management, universal software for the creation, support and successful development of corporate websites and online stores."
+  },
+  {
+    "technology": "1C-Bitrix",
+    "pattern": "BITRIX_SM_LAST_IP",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "1C-Bitrix is a system of web project management, universal software for the creation, support and successful development of corporate websites and online stores."
+  },
+  {
+    "technology": "1C-Bitrix",
+    "pattern": "BITRIX_SM_SALE_UID",
+    "threatLevel": 0,
+    "categories": [
+      1,
+      6
+    ],
+    "description": "1C-Bitrix is a system of web project management, universal software for the creation, support and successful development of corporate websites and online stores."
+  },
+  {
+    "technology": "4-Tell",
+    "pattern": "4Tell",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "4-Tell is an ecommerce software company for retailers with AI-powered personalisation and recommendations products."
+  },
+  {
+    "technology": "4-Tell",
+    "pattern": "4TellCart",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "4-Tell is an ecommerce software company for retailers with AI-powered personalisation and recommendations products."
+  },
+  {
+    "technology": "4-Tell",
+    "pattern": "4TellSession",
+    "threatLevel": 1,
+    "categories": [
+      76
+    ],
+    "description": "4-Tell is an ecommerce software company for retailers with AI-powered personalisation and recommendations products."
+  }
+]
