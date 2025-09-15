@@ -80,26 +80,26 @@ The scraper generates the following files in the `wappalyzer-data/` directory:
 
 The scraper focuses on these privacy-related technology categories:
 
-- **Analytics** (Category 10)
-- **Advertising** (Category 36)
-- **Cookie Compliance** (Category 67)
-- **Affiliate Programs** (Category 71)
-- **Retargeting** (Category 77)
-- **Browser Fingerprinting** (Category 83)
-- **Customer Data Platform** (Category 97)
-- **Marketing Automation** (Category 32)
-- **Personalisation** (Category 76)
-- **Segmentation** (Category 86)
-- **Tag Managers** (Category 42)
-- **RUM (Real User Monitoring)** (Category 78)
+- **Analytics** `(Category 10)`
+- **Advertising** `(Category 36)`
+- **Cookie Compliance** `(Category 67)`
+- **Affiliate Programs** `(Category 71)`
+- **Retargeting** `(Category 77)`
+- **Browser Fingerprinting** `(Category 83)`
+- **Customer Data Platform** `(Category 97)`
+- **Marketing Automation** `(Category 32)`
+- **Personalisation** `(Category 76)`
+- **Segmentation** `(Category 86)`
+- **Tag Managers** `(Category 42)`
+- **RUM (Real User Monitoring)** `(Category 78)`
 
 ## Threat Levels
 
 Technologies are classified by threat level:
 
-- **High Risk** 🔴: Browser fingerprinting, retargeting, customer data platforms
-- **Medium Risk** 🟡: Analytics, advertising, tag managers, marketing automation
-- **Low Risk** 🟢: Other privacy-related categories
+- 🔴 **High Risk**: Browser fingerprinting, retargeting, customer data platforms
+- 🟡 **Medium Risk**: Analytics, advertising, tag managers, marketing automation
+- 🟢 **Low Risk**: Other privacy-related categories
 
 ## Data Structure
 
@@ -146,7 +146,7 @@ Technologies are classified by threat level:
 - **Node.js Version**: 18.0.0+
 - **Dependencies**: None (uses built-in modules)
 - **Data Source**: Wappalyzer GitHub repository (main branch)
-- **Update Frequency**: Run manually to get latest data
+- **Update Frequency**: Run manually to get the latest data
 - **Output Format**: JSON files with comprehensive metadata
 
 ## Contributing
@@ -158,14 +158,15 @@ This is a data scraping tool. To contribute:
 3. Test with the latest Wappalyzer data
 4. Submit a pull request
 
-## License
+## Credits
 
-MIT License - see package.json for details
-
-## Author
-
-Leonardo Poleto
+- [Leonardo Poletto](https://github.com/leopoletto/)
+- [All Contributors](../../contributors)
 
 ## Data Source
 
 This tool scrapes data from the [Wappalyzer](https://github.com/HTTPArchive/wappalyzer) project, which is licensed under the GPL-3.0 License.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
